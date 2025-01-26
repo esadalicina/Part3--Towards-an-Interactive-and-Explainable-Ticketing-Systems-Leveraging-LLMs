@@ -33,7 +33,7 @@ http://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HAI24/55/ba221659-66d1-11ef-ada9-16b
 
 ### Prerequisites
 
-- **Python 3.8+** installed on your machine
+- **Python 3.10+** installed on your machine
 
 ### Setup Instructions
 
