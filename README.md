@@ -107,7 +107,7 @@ http://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HAI24/55/ba221659-66d1-11ef-ada9-16b
         - Go to the API keys section in your OpenAI dashboard.
         - Generate a new API key or copy an existing one.
 
-    CHATBOT_API_KEY: This is a key for the chatbot's service (could be OpenAI, or another chatbot platform you are using).
+    (optional) CHATBOT_API_KEY: This is a key for the chatbot's service (could be OpenAI, or another chatbot platform you are using).
 
     - To get your CHATBOT_API_KEY:
         - This depends on the service you are using for your chatbot (for example, Dialogflow, Wit.ai, etc.).
