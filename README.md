@@ -10,6 +10,8 @@ Master Thesis Part 2 - The focus is on both the backend and frontend of the Tick
 
 https://github.com/esadalicina/Part2--Towards-an-Interactive-and-Explainable-Ticketing-Systems-Leveraging-LLMs.git
 
+Youtube Tutorials for Discord bots (example): https://www.youtube.com/watch?v=5j_tO2QdlVM&t=194s
+
 
 ## HAI24 Conference Poster - Optimizing Helpdesk Ticketing Systems with Discord Community Integration
 
