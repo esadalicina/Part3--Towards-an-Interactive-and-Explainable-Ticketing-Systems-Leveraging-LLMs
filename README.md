@@ -10,9 +10,12 @@ Master Thesis Part 2 - The focus is on both the backend and frontend of the Tick
 
 https://github.com/esadalicina/Part2--Towards-an-Interactive-and-Explainable-Ticketing-Systems-Leveraging-LLMs.git
 
-HAI24 Conference Paper: http://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HAI24/55/ba221659-66d1-11ef-ada9-16bb50361d1f/OUT/hai24-55.html
 
 ## HAI24 Conference Poster - Optimizing Helpdesk Ticketing Systems with Discord Community Integration
+
+HAI24 Conference Paper:
+
+http://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HAI24/55/ba221659-66d1-11ef-ada9-16bb50361d1f/OUT/hai24-55.html
 
 
 ![HAI24 Conference Poster](Poster.jpg)
