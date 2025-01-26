@@ -109,10 +109,7 @@ http://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HAI24/55/ba221659-66d1-11ef-ada9-16b
 
     (optional) CHATBOT_API_KEY: This is a key for the chatbot's service (could be OpenAI, or another chatbot platform you are using).
 
-    - To get your CHATBOT_API_KEY:
-        - This depends on the service you are using for your chatbot (for example, Dialogflow, Wit.ai, etc.).
-        - You typically create an account on the platform (such as Dialogflow or others) and generate an API key/token through their dashboard.
-
+    
     ```
 
   - Create a `.env` file in the VotingBot directory of your project with the necessary environment variables:
